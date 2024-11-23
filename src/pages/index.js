@@ -37,9 +37,9 @@ export default function Home() {
     </div>
     </div>
 
-    <div className="mt-64 text-appGreen-900 font-inter text-4xl">
-      <h1 className="text-center font-bold">ABOUT ME</h1>
-
+    <div className="mt-64 text-appGreen-900 font-inter w-10/12 mx-auto mb-64">
+      <h1 className="text-center font-bold  text-4xl">ABOUT ME</h1>
+      <p className="text-center text-lg mx-56">My name is Made Suastika Aditya Wiranata, I'm 17 years old. I am a student of SMK Wira Harapan (Tegal Jaya), a person who can fast learner, honest and discipline. I enjoy to learn new things and get a new experience. I can work as a team and personal I love coding and playing games.</p>
     </div>
     </>
   );

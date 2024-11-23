@@ -1,5 +1,3 @@
-import "@/styles/globals.css";
-import HamburgerMenu from "./hamburgerMenu";
 
 export default function Navbar({ children }) {
     return (

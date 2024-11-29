@@ -30,7 +30,7 @@ export default function Home() {
     <div className="w-6/12">
     <Image 
     src={ImageProfile}
-    className="border  w-full rounded-full"
+    className="border-4  w-full rounded-full border-appGreen-500"
     />
     </div>
     </div>

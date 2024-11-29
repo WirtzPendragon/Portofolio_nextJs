@@ -38,7 +38,7 @@ export default function Home() {
     <div className="mt-40 lg:mt-64 text-appGreen-900 font-inter lg:w-10/12 mx-auto mb-40 lg:mb-64">
       <h1 className="text-center font-bold  text-4xl">ABOUT ME</h1>
     <div>
-      <p className="text-center text-lg mx-4 mt-4 lg:mx-56">My name is Made Suastika Aditya Wiranata, I'm 17 years old. I am a student of SMK Wira Harapan (Tegal Jaya), a person who can fast learner, honest and discipline. I enjoy to learn new things and get a new experience. I can work as a team and personal I love coding and playing games.</p>
+      <p className="text-center lg:text-lg mx-4 mt-4 lg:mx-56">My name is Made Suastika Aditya Wiranata, I'm 17 years old. I am a student of SMK Wira Harapan (Tegal Jaya), a person who can fast learner, honest and discipline. I enjoy to learn new things and get a new experience. I can work as a team and personal I love coding and playing games.</p>
     </div>
 
     <div>
@@ -46,15 +46,15 @@ export default function Home() {
     <div className="flex flex-row flex-wrap justify-evenly">
       <div className="border rounded mt-5 p-4 mx-2 lg:mx-0 lg:w-96 bg-white shadow-2xl">
         <h2 className="font-semibold text-lg">Study</h2>
-        <p>I am a student at SMK Wira Harapan, and I have chosen the RPL program because of my passion for technology and software development. This field allows me to explore my creativity and problem-solving skills by learning to design and develop innovative software solutions.</p>
+        <p className="text-xs">I am a student at SMK Wira Harapan, and I have chosen the RPL program because of my passion for technology and software development. This field allows me to explore my creativity and problem-solving skills by learning to design and develop innovative software solutions.</p>
       </div>
       <div className="border rounded mt-5 p-4 mx-2 lg:mx-0 lg:w-96 bg-white shadow-2xl">
         <h2 className="font-semibold text-lg">Fitness</h2>
-        <p>Staying fit is really important to me as a student because it helps me stay energized and focused on my studies. I make time for regular exercise, like jogging, doing workouts, or even yoga, to keep my body active and my mind clear. </p>
+        <p className="text-xs">Staying fit is really important to me as a student because it helps me stay energized and focused on my studies. I make time for regular exercise, like jogging, doing workouts, or even yoga, to keep my body active and my mind clear. </p>
       </div>
       <div className="border rounded mt-5 p-4 mx-2 lg:mx-0 lg:w-96 bg-white shadow-2xl">
         <h2 className="font-semibold text-lg">Playing games</h2>
-        <p>As a student, I enjoy playing games in my free time. It’s a great way for me to relax, have fun, and sometimes even challenge my problem-solving and strategic thinking skills. Gaming helps me stay balanced, giving me a break from studies while keeping my mind sharp and entertained.</p>
+        <p className="text-xs">As a student, I enjoy playing games in my free time. It’s a great way for me to relax, have fun, and sometimes even challenge my problem-solving and strategic thinking skills. Gaming helps me stay balanced, giving me a break from studies while keeping my mind sharp and entertained.</p>
       </div>
     </div>
     </div>

@@ -4,7 +4,7 @@ export default function Navbar({ children }) {
       <>
       
       <div className="flex flex-row w-screen h-14 items-center justify-around font-inter font-medium text-lg bg-appGreen-900 text-primary px-4">
-        <p>ThePixelWebsmith</p>
+        <p>Aditya Wiranata</p>
         <span className="flex ">
         <a href="#" className="hover:scale-125 m-5"> About</a>
         <a href="#" className="hover:scale-125 m-5"> Project</a>

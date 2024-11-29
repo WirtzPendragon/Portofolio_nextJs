@@ -8,7 +8,7 @@ import localFont from "next/font/local";
 export default function Home() {
   return (
     <>
-    <div className="mt-20 mx-36 lg:flex lg:justify-evenly w-10/12 font-inter">
+    <div className="mt-20 mx-auto lg:flex lg:justify-evenly w-10/12 font-inter">
     <div className="w-1/2">
     <h1 className="text-appGreen-900 font-semibold text-5xl mt-32">Hello, I'm Suastika</h1>
     <h2 className="text-appGreen-900 font-semibold text-2xl mt-5">Web Designer</h2>
@@ -30,10 +30,10 @@ export default function Home() {
       <li>Unity</li>
     </ul>
     </div>
-    <div>
+    <div className="w-6/12">
     <Image 
     src={ImageProfile}
-    className="border w-10/12 rounded-full"
+    className="border w-full rounded-full"
     />
     </div>
     </div>

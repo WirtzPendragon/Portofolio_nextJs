@@ -8,7 +8,7 @@ import localFont from "next/font/local";
 export default function Home() {
   return (
     <>
-    <div className="mt-20 mx-auto flex flex-col-reverse justify-center items-center lg-flex-row lg:justify-evenly lg:w-10/12 font-inter">
+    <div className="mt-20 mx-auto flex flex-col-reverse justify-center items-center lg:flex-row lg:justify-evenly lg:w-10/12 font-inter">
     <div className="lg:w-1/2 mx-auto text-center lg:mx-0">
     <h1 className="text-appGreen-900 font-semibold text-5xl mt-12 lg:mt-32">Hello, I'm Suastika</h1>
     <h2 className="text-appGreen-900 font-semibold text-2xl mt-5">Web Designer</h2>
